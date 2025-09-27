@@ -1,0 +1,55 @@
+/* @font-face {
+    font-family: horror;
+    src: url(./Dracutaz.otf);
+} */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+/* h1{
+    color: pink;
+    background-color: black;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-style: oblique;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2{
+    color: black;
+}
+
+#hero{
+    color: aquamarine;
+} */
+
+/* h2{
+    font-family: cursive;
+    font-size: larger;
+    color: yellow;
+}
+
+.green{
+    color: green;
+}
+
+.red{
+    color: red;
+    font-family: horror;
+} */
+
+div{
+    /* color: red; */
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+}

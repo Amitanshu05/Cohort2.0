@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+/* .box1{
+    height: 150px;
+    width: 240px;
+    background-color: orange;
+    border: 2px solid black;
+    margin-bottom: 5px;
+}
+.box2{
+    position: absolute;
+    left: 50%;
+    height: 200px;
+    width: 290px;
+    background-color: blue;
+    border: 2px solid black;
+    margin-bottom: 5px;
+}
+.box3{
+    height: 250px;
+    width: 340px;
+    background-color: green;
+    border: 2px solid black;
+} */
+
+/* #b1{
+    position: relative;
+    height: 400px;
+    width: 400px;
+    background-color: red;
+}
+#b2{
+    position: absolute;
+    left: 50%;
+    position: relative;
+    height: 300px;
+    width: 300px;
+    background-color: green;
+}
+#b3{
+    position: relative;
+    position: absolute;
+    left: 50%;
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+}
+#b4{
+    position: absolute;
+    left: 50%;
+    height: 50px;
+    width: 50px;
+    background-color: yellow;
+} */
+
+/* #homepage{
+    width: 100%;
+    height: 3000px;
+    background-color: black;
+}
+
+#sidebar{
+    background-color: red;
+    right: 0;
+    top: 50%;
+    position: fixed;
+    height: 100px;
+    width: 20px;
+} */
+
+#bigd{
+    width: 100%;
+}
+
+#c1{
+    width: 100%;
+    height: 1000px;
+    background-color: black;
+}
+p{
+    color:beige;
+}
+#baxa{
+    position: sticky;
+    top: 0;
+    height: 50px;
+    width: 100px;
+    background-color: white;
+}
+#c2{
+    width: 100%;
+    height: 1200px;
+    background-color: brown;
+}

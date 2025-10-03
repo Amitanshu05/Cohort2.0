@@ -1,0 +1,53 @@
+@font-face {
+  font-family: mf;
+  src: url(./Gwendolyn-Regular.ttf);
+}
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+.hero {
+  height: 100%;
+  width: 100%;
+
+  background-image: url(https://images.unsplash.com/photo-1476820865390-c52aeebb9891?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  background-size: cover;
+  background-position: center;
+
+  
+  text-align: center;
+
+  padding: 50px;
+}
+
+h1{
+    font-size: 100px;
+    font-family: mf;
+    color: black;
+    font-weight: 900;
+}
+
+button {
+  /* padding-left: 13px;
+  padding-right: 13px;
+  padding-top: 9px;
+  padding-bottom: 9px; */
+  padding: 9px 13px;    
+  border-radius: 9px;
+  background-color: transparent;
+  color: black;
+  border: 2px solid black;
+}
+
+button:hover {
+  background-color: pink;
+  transform: scale(1.05);
+}

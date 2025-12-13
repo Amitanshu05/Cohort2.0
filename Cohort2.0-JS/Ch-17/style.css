@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+main{
+    background-color: black;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+button{
+    padding: 10px 20px;
+    font-weight: 600;
+    background-color: crimson;
+    border: none;
+    cursor: pointer;
+    position: relative;
+    z-index: 9;
+}
+
+button:active{
+    scale: 0.95;
+}
+
+h1{
+    font-size: 15px;
+    white-space: nowrap;
+}
